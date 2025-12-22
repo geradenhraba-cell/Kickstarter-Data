@@ -1,6 +1,6 @@
 <h1>Crowdfunding TTRPG's through the Years</h1>
 
-	<h3>Table of Contents</h3>
+<h3>Table of Contents</h3>
   <ul>
   <li>Overview</li>
   <li>Motivation</li>
