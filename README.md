@@ -32,3 +32,20 @@ https://gametable.org/
 
 I wished to give a shoutout to reddit user Skalchemisto whose dataset i used for this project. below is where i found the data i used.
 https://www.reddit.com/r/rpg/comments/1ilpoif/rpg_related_projects_on_kickstarter_in_2024_a/?ref=rpgdrop.com#:~:text=,project%20the%20total%20would%20have
+
+<h3>Challenges</h3>
+
+It was a challenge to organize all the data together from the four different websites, as everything did not have the same data points as one another.
+I had to figure out how to properly datetime certain sections and pull just the year from the date time into a new coloumn and to figure out which of every column actually was.
+
+<h3>Technologies Used</h3>
+
+<ol>
+  <li>Python</li>
+  <li>PowerPoint</li>
+  <li>Git</li>
+</ol>
+
+<h3>Conclusion</h3>
+
+I found that European countries perfer projects outside of Fifth edition. Most of the projects i looked at were funded with very few items being cancelled or not fully funded. with most projects being fully funded on Backerkit at 97%. if i had more time i would like to have looked at how many backers were backing each project and what the average donation amount for each was, or if that data is even available to be seen on the websites. I would have also liked to dive deeper into other aspects of the projects and base analsyst on the inflation rate of the currencies to present day. While 5e and related projects are by far the most popular there are a few years in which they are not and other projects out perform them. 
